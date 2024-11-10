@@ -5,7 +5,7 @@ Of course, the utility needs further development, and we will continue to work o
 Perhaps our work will be useful to some developers, and we would be happy about that :)
 
 If you feel like supporting our work, you can do so here:
-Donation:
+Donation: 5356 8624 4347 9193
 
 We are using code from this playlist for implementing ARP spoofing ----> https://www.youtube.com/playlist?list=PLRx6edaDtIBXktbZ-GAhUCTst_O8VX4hy
 Documentation for the Scapy library ----> https://scapy.readthedocs.io/en/latest/index.html
@@ -26,7 +26,7 @@ ARP spoofing can be used for various purposes, such as stealing confidential inf
 Возможно наши наработки пригодятся каким-либо разработчикам, будем только рады :)
 
 Если появилось желание поддержать нашу работу, тогда вам сюда:
-донат:
+донат: 5356 8624 4347 9193
 
 Из этого плэйлиста мы берем код для реализации arp спуфинга ----> https://www.youtube.com/playlist?list=PLRx6edaDtIBXktbZ-GAhUCTst_O8VX4hy
 Документация по библиотеке Scapy ----> https://scapy.readthedocs.io/en/latest/index.html
