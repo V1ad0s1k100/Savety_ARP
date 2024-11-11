@@ -7,7 +7,7 @@ Perhaps our work will be useful to some developers, and we would be happy about 
 If you feel like supporting our work, you can do so here:
 Donation: 5356 8624 4347 9193
 
-We are using code from this playlist for implementing ARP spoofing ----> https://www.youtube.com/playlist?list=PLRx6edaDtIBXktbZ-GAhUCTst_O8VX4hy
+
 Documentation for the Scapy library ----> https://scapy.readthedocs.io/en/latest/index.html
 ARP spoofing is a network-level attack that allows an attacker to change the MAC address of the sender in ARP packets. This can lead to redirecting traffic to a false IP address or other undesirable consequences.
 The attack is carried out by sending false ARP responses to requests from other devices in the network. The attacker sends fake ARP responses, specifying their MAC address as the source and the victim's IP address as the destination. When other devices in the network receive these false responses, they begin to send traffic to the false IP address instead of the actual IP address of the victim.
@@ -28,7 +28,6 @@ ARP spoofing can be used for various purposes, such as stealing confidential inf
 Если появилось желание поддержать нашу работу, тогда вам сюда:
 донат: 5356 8624 4347 9193
 
-Из этого плэйлиста мы берем код для реализации arp спуфинга ----> https://www.youtube.com/playlist?list=PLRx6edaDtIBXktbZ-GAhUCTst_O8VX4hy
 Документация по библиотеке Scapy ----> https://scapy.readthedocs.io/en/latest/index.html
 ARP-спуфинг — это атака на уровне сети, которая позволяет злоумышленнику изменить MAC-адрес отправителя в ARP-пакетах. Это может привести к перенаправлению трафика на ложный IP-адрес или к другим нежелательным последствиям.
 Атака осуществляется путём отправки ложных ARP-ответов на запросы от других устройств в сети. Злоумышленник отправляет поддельные ARP-ответы, указывая свой MAC-адрес в качестве источника и IP-адрес жертвы в качестве назначения. Когда другие устройства в сети получают эти ложные ответы, они начинают отправлять трафик на ложный IP-адрес, а не на настоящий IP-адрес жертвы.
